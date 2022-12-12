@@ -1,0 +1,1 @@
+sudo mount -t fuse.vmhgfs-fuse -o allow_other .host:/shared ~/shared
